@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido para construção de um bingo online multiplayer, 
 
 Você pode acessar o projeto através do deploy:
 
-[Deploy Front-end](https://bingo-g5-front.onrender.com/)
+[Deploy Front-end](https://www.breakingbingo.tk)
 
 [Deploy Back-end](https://bingo-g5-ploomes.onrender.com/)
 
