@@ -9,7 +9,7 @@ Você pode acessar o projeto através do deploy:
 
 [Deploy Front-end](https://www.breakingbingo.tk)
 
-[Deploy Back-end](https://bingo-g5-ploomes.onrender.com/)
+[Deploy Back-end](https://bingo-ploomes-server-production.up.railway.app/api)
 
 Caso deseje rodar localmente, siga as instruções abaixo:
 
